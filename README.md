@@ -26,11 +26,11 @@ InspiroWorks
 2.Open the project folder.
 
 3.Double-click index.html to open in your browser.
-✅ That’s it — no extra setup required.
+
 
 ---
 
-Optional
+## Optional
 1.Run with a local server
 2.Using VS Code: install the “Live Server” extension → right-click index.html → Open with Live Server.
 ```python

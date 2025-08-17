@@ -34,13 +34,14 @@ Optional: Run with a local server
 Using VS Code: install the “Live Server” extension → right-click index.html → Open with Live Server.
 ```python
 python -m http.server 5500
+Then visit http://localhost:5500
 
-🎯 Bonus Features 
+🎯 Additional Features 
 
 1. LocalStorage integration so tasks persist across sessions.
 
-2. Keyboard support — press Enter to add tasks without clicking the button.
+2. Press Enter to add tasks without clicking the button.
 
-3. Ensuring task state (completed/not completed) stays consistent after reload. Solved using a task array stored in LocalStorage.
+3. Ensuring task state (completed/not completed) stays consistent after reload.
 
-4. Keeping the UI minimalist but functional — avoided over-styling while ensuring good usability.
+4. Keeping the UI minimalist but functional.

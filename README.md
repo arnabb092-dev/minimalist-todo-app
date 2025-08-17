@@ -31,8 +31,8 @@ InspiroWorks
 ---
 
 ## Optional
-1.Run with a local server
-2.Using VS Code: install the “Live Server” extension → right-click index.html → Open with Live Server.
+1. Run with a local server
+2. Using VS Code: install the “Live Server” extension → right-click index.html → Open with Live Server.
 ```python
 python -m http.server 5500
 Then visit http://localhost:5500

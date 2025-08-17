@@ -35,7 +35,9 @@ Using VS Code: install the “Live Server” extension → right-click index.htm
 ```python
 python -m http.server 5500
 Then visit http://localhost:5500
-
+```
+---
+```
 🎯 Additional Features 
 
 1. LocalStorage integration so tasks persist across sessions.
@@ -45,3 +47,6 @@ Then visit http://localhost:5500
 3. Ensuring task state (completed/not completed) stays consistent after reload.
 
 4. Keeping the UI minimalist but functional.
+```
+
+

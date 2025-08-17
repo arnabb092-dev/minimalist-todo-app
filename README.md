@@ -1,28 +1,33 @@
-# Minimalist To-Do List App ✅
+# ✅ Minimalist To-Do List App
 
-A simple, clean, and functional To-Do List web app built with **HTML, CSS, and JavaScript**.
+A clean and functional To-Do List web app built with **HTML, CSS, and JavaScript**.  
+This project was developed as part of an intern assignment provided by 
+InspiroWorks 
 
-## Features
-- Add tasks via input + button or Enter key
-- Mark tasks as completed ✔
-- Delete tasks ✖
-- Persistent storage (LocalStorage)
-- Minimalist design with responsive layout
+---
 
-## How to Run
-1. Download the project files.
-2. Open `index.html` in your browser.
-3. Start adding tasks!
+## 🚀 Features Implemented
+- Add tasks via **input field + Add button** or just press **Enter**.
+- Render task list dynamically with **JavaScript DOM manipulation**.
+- Mark tasks as **completed** ✔ (styled with strikethrough + grey background).
+- Delete individual tasks ✖ from the list.
+- Persistent storage using **LocalStorage** (tasks remain after page reload).
+- Minimalist, user-friendly UI with semantic HTML and clean CSS.
 
-## Deployment
-### GitHub Pages
-1. Create a GitHub repository and push these files.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to `Deploy from a branch`.
-4. Choose `main` and `/ (root)` then **Save**. Your site will be live shortly.
+---
 
-### Netlify (Optional)
-- Drag-and-drop the project folder into the Netlify dashboard, or connect your GitHub repo.
+## 🛠️ How to Run the App
+1. **Clone or Download** this repository.
+   ```bash
+   git clone https://github.com/<your-username>/minimalist-todo-app.git
+2.Open the project folder.
 
-## Notes
-- Tasks are stored in **LocalStorage** so they persist across page reloads in the same browser.
+3.Double-click index.html to open in your browser.
+✅ That’s it — no extra setup required.
+
+---
+
+Optional: Run with a local server
+Using VS Code: install the “Live Server” extension → right-click index.html → Open with Live Server.
+Using Python:
+python -m http.server 5500

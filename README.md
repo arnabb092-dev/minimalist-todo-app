@@ -4,6 +4,8 @@ A clean and functional To-Do List web app built with **HTML, CSS, and JavaScript
 This project was developed as part of an intern assignment provided by 
 InspiroWorks 
 
+🔗 **Live Demo**: [Minimalist To-Do List](https://arnabb092-dev.github.io/minimalist-todo-app/)
+
 ---
 
 <img width="761" height="801" alt="Screenshot 2025-08-17 111349" src="https://github.com/user-attachments/assets/d1f0d08a-151a-4936-a505-95ce8c474408" />
